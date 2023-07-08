@@ -9,12 +9,12 @@ import java.io.IOException;
 public class pwcEx1 {
     public static void main(String[] args) throws IOException {
         
-            //User Input
-            System.out.print("Digite sua frase:");
-            String received = System.console().readLine();
-            
-            //Call of function and print
-            System.out.println(reveString(received));
+        //User Input
+        System.out.print("Digite sua frase:");
+        String received = System.console().readLine();
+        
+        //Call of function and print
+        System.out.println(reveString(received));
     }
 
     //Reverses the string order
