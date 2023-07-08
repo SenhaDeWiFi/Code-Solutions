@@ -11,10 +11,10 @@ public class pwcEx1 {
         
         //User Input
         System.out.print("Digite sua frase:");
-        String received = System.console().readLine();
+        String input = System.console().readLine();
         
         //Call of function and print
-        System.out.println(reveString(received));
+        System.out.println(reveString(input));
     }
 
     //Reverses the string order
