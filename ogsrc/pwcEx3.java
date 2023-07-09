@@ -19,7 +19,12 @@ public class pwcEx3 {
     }
 
     public static String longestPalindromeIn(String input){
-        String longestP = "";
+    	
+    	//"Decapitalize" the user input
+        input = input.replaceAll(" ", "");
+        input = input.toLowerCase();
+        
+    	String longestP = "";
 
         // Checks for every possible substring 
         for (int i = 0; i < input.length(); i++) {
