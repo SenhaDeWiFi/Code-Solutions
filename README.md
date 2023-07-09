@@ -1,4 +1,4 @@
-# PwC Codes
+# Soluções em código
 
  **O projeto tem um arquivo .jar executável com uma interface de usuário, dentro da pasta *build,* sendo necessário ter o JRE instalado para rodar.**
 > Resultados de casos de teste estarão dentro da pasta *tests,* em .pdf.
