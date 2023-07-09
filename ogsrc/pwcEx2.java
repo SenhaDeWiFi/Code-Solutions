@@ -1,3 +1,4 @@
+package ogsrc;
 /* 
  * Ex2: Remove todo caractere duplicado dentro de uma string// Removes every duplicate char in a string
  * Data: 08/07/2023
@@ -17,7 +18,7 @@ public class pwcEx2 {
         System.out.println(removeDups(input));
     }
     
-    //Remove repeated charaters inside a string
+    //Remove repeated characters inside a string
     public static String removeDups(String toRemoveDup){
 
         // *Supposing only alphanumeric characters
@@ -31,7 +32,7 @@ public class pwcEx2 {
             if (!verifiedChars[charToTest]){
                 verifiedChars[charToTest] = true;
 
-            // If it is the first occurence of the char, it concatenates to the new string
+            // If it is the first occurrence of the char, it concatenates to the new string
                 dupsRemoved += charToTest;
             }
 

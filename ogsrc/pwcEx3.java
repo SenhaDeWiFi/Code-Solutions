@@ -1,3 +1,4 @@
+package ogsrc;
 /* 
  * Ex3: Encontra o maior palíndromo dentro de uma string// Finds the longest palindrome substring inside a given string
  * Data: 08/07/2023

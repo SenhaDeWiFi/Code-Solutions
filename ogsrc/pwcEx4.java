@@ -1,3 +1,4 @@
+package ogsrc;
 /* 
  * Ex4: Transforma a primeira letra de qualquer dada frase em maiuscula dentro de uma string// Makes uppercase the first character of any phrase of a string
  * Data: 08/07/2023

@@ -1,3 +1,4 @@
+package ogsrc;
 /* 
  * Ex1: Reverte ordem de palavras dentro de uma string // Reverse the order of a string preserving the words
  * Data: 08/07/2023
