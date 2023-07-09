@@ -1,6 +1,6 @@
 # PwC Codes
 
- **O projeto tem um arquivo .jar executável com uma interface de usuário, dentro da pasta *build,* sendo necessário o JRE instalado.**.
+ **O projeto tem um arquivo .jar executável com uma interface de usuário, dentro da pasta *build,* sendo necessário ter o JRE instalado para rodar.**
 > Resultados de casos de teste estarão dentro da pasta *tests,* em .pdf.
 
 > O código fonte original de cada um dos programas está dentro da pasta **./ogsrc** *(de original source)* e suas extensões estão em .java, podendo ser executado em qualquer máquina com o JDK instalado usando o command prompt.
